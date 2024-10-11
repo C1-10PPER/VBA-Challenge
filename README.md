@@ -8,3 +8,4 @@
 #Screenshots are provided for both alphabetical_testing spreadsheet and the Multiple_year_stock_data spreadsheet.
 #VBA Code was processed for alphabetical_testing but left unprocessed for the Multiple_year_stock_data. 
 
+#Added the seperate individual VBA script files after Thursdays Class. 
